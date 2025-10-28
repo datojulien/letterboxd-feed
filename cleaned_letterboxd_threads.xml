@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<<<<<<< Updated upstream
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://letterboxd.com/julienpierre/rss/</id>
   <title>Julien’s Letterboxd → Threads</title>
@@ -63,3 +64,6 @@
     <link href="https://letterboxd.com/julienpierre/film/manhattan-murder-mystery/2/"/>
   </entry>
 </feed>
+=======
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://letterboxd.com/julienpierre/rss/</id><title>Julien’s Letterboxd → Threads</title><updated>2025-06-11T01:05:22.356057+00:00</updated><link href="https://letterboxd.com/julienpierre/rss/" rel="alternate"/><link href="/Users/julienpierre/letterboxd-feed/cleaned_letterboxd_threads.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator></feed>
+>>>>>>> Stashed changes
