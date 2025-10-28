@@ -1,2 +1,65 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://letterboxd.com/julienpierre/rss/</id><title>Julien’s Letterboxd → Threads</title><updated>2025-10-28T12:34:09.640320+00:00</updated><link href="https://letterboxd.com/julienpierre/rss/" rel="alternate"/><link href="cleaned_letterboxd_threads.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator></feed>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://letterboxd.com/julienpierre/rss/</id>
+  <title>Julien’s Letterboxd → Threads</title>
+  <updated>2025-10-28T13:13:06.336994+00:00</updated>
+  <link href="https://letterboxd.com/julienpierre/rss/" rel="alternate"/>
+  <link href="cleaned_letterboxd_threads.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>letterboxd-review-970205682#threads</id>
+    <title>The Sound of Music, 1965 - ★★★★★</title>
+    <updated>2025-08-03T08:25:39+00:00</updated>
+    <content type="text">Julie Andrews and Christopher Plummer are perfectly cast, and there isn’t a single wrong note, musically, lyrically, or emotionally. Robert Wise’s direction is masterful in its subtlety, guiding the film with a choreographed grace. The film is bittersweet, funny, dramatic, hilarious, and sad, all in perfect balance. It builds, layer by layer, from charm to emotional weight without ever losing its lightness.</content>
+    <link href="https://letterboxd.com/julienpierre/film/the-sound-of-music/1/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-998601249#threads</id>
+    <title>Day for Night, 1973 - ★★★★★</title>
+    <updated>2025-08-29T11:09:37+00:00</updated>
+    <content type="text">There’s a rare sense of camaraderie here. You don’t feel like a voyeur peeking behind the scenes, you feel like you’re part of the crew. The behind-the-scenes melodrama might be heightened, and the day-to-day shooting has a documentary flavor, but the sum of it is deeply human.Georges Delerue's grand score gives the whole film both an eerie and melancholic undertone that lingers long after.</content>
+    <link href="https://letterboxd.com/julienpierre/film/day-for-night/3/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-1027340106#threads</id>
+    <title>Eye of the Needle, 1981 - ★★★</title>
+    <updated>2025-09-29T08:05:31+00:00</updated>
+    <content type="text">Gone is the deep internal complexity of the book’s characters. What we get instead is a tight, suspenseful thriller with a focus on physical tension more than emotional depth. The espionage elements are still there, but this version is more about survival than subtlety. That said, viewers unfamiliar with the novel might find the narrative a little thin or even cold. It's never overlong, and the suspense, especially in the later acts, keeps things engaging.</content>
+    <link href="https://letterboxd.com/julienpierre/film/eye-of-the-needle/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-1028190654#threads</id>
+    <title>A Girl Cut in Two, 2007 - ★★★</title>
+    <updated>2025-09-30T07:54:39+00:00</updated>
+    <content type="text">La Fille coupée en deux is carried largely by François Berléand’s complex, layered performance. Ludivine Sagnier, despite being the title character, plays with a rather limited emotional range. The true focus is not the plot but the people, their motivations, power plays, and emotional disarray. Fascinating in parts, coolly unsettling, but ultimately one for completists more than casual viewers.</content>
+    <link href="https://letterboxd.com/julienpierre/film/a-girl-cut-in-two/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-1042428123#threads</id>
+    <title>Annie Hall, 1977 - ★★★★★</title>
+    <updated>2025-10-15T12:54:46+00:00</updated>
+    <content type="text">The chemistry between Woody Allen and Diane Keaton reaches its absolute peak here. The script is one of the finest ever written for the screen. The editing, the use of flashbacks, time jumps, asides to the camera, even animated interludes, everything contributes to a cinematic language that was fresh and bold for its time (and still feels modern today). Allen’s direction embraces minimalism in the best way, long takes, simple framing, and a confidence in dialogue over spectacle.</content>
+    <link href="https://letterboxd.com/julienpierre/film/annie-hall/1/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-1043153421#threads</id>
+    <title>Manhattan, 1979 - ★★★★★</title>
+    <updated>2025-10-16T08:06:12+00:00</updated>
+    <content type="text">Manhattan is more than a romantic comedy or a city portrait. It’s a film that hums with artistry, vulnerability, and the sad, sweet absurdity of longing. A masterpiece of mood and tone. A brilliant film where everything aligns : story, acting, music, and cinematography merge into something iconic. Woody Allen at his most lyrical and self-aware, crafting a love letter not just to a city but to the messy, aching beauty of relationships.</content>
+    <link href="https://letterboxd.com/julienpierre/film/manhattan/1/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-1048435403#threads</id>
+    <title>Nothing Sacred, 1937 - ★★★★</title>
+    <updated>2025-10-21T14:09:26+00:00</updated>
+    <content type="text">Lombard dazzles, as always, with her sharp comic instincts and she can play ingenue too. March plays the cynical straight man with just the right amount of exasperated flair. The script is loaded with biting wit, and every minute brims with laughter. Oscar Levant’s score is the cherry on top, light, clever, and perfectly attuned to the film's manic energy. Not a grand film, but a near-perfect 75-minute ride through absurdity and media spectacle.</content>
+    <link href="https://letterboxd.com/julienpierre/film/nothing-sacred/"/>
+  </entry>
+  <entry>
+    <id>letterboxd-review-1049172052#threads</id>
+    <title>Manhattan Murder Mystery, 1993 - ★★★★★</title>
+    <updated>2025-10-22T07:37:29+00:00</updated>
+    <content type="text">The original Only Murders in the Building, Manhattan Murder Mystery is a perfect blend of real suspense and screwball energy. Diane Keaton is again at her absolute best here: jittery, curious, bold, and hysterically on edge. Woody Allen matches her with peak mimical timing, but generously lets her lead the charge. Alan Alda, Anjelica Huston, and Jerry Adler round out the ensemble with style and wit.</content>
+    <link href="https://letterboxd.com/julienpierre/film/manhattan-murder-mystery/2/"/>
+  </entry>
+</feed>
